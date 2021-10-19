@@ -15,7 +15,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint --ext .js,.jsx --fix src/ && stylelint **.css --fix"
+    "lint": "eslint --ext .js,.jsx --fix src/ && stylelint **.css --fix",
+    "prepare": "husky install"
   },
   "eslintConfig": {
     "extends": [
