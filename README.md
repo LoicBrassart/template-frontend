@@ -1,8 +1,16 @@
 # Template for Frontend project
 
+## Why this project
+This repo aims to provide a comfortable Developer Experience (DX) to newbie React developpers.
+It comes with a lo of tools with a asic config:
+- Create React App (CRA)
+- ESLint
+- Prettier
+- StyleLint
+
 ## First steps
 
-### Install these extensions
+### Install these extensions for VSCode
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
